@@ -215,10 +215,12 @@ don't have one, you never will.
 - **It is not on the Microsoft Store.** Download it from here (or from
   [kwickplayer.tv](https://kwickplayer.tv/)) — that's the only place it comes
   from.
-- **Playlist files don't open the app by double-clicking.** Double-clicking an
-  `.m3u` file on your PC won't launch Kwick Player. Add a playlist from inside
-  the app instead — **Settings › Sources › IPTV Sources**, which takes a web
-  address or a file off your PC.
+- **Double-click a playlist file.** Kwick Player opens `.m3u` and `.m3u8`
+  files — double-click one and it's added to your sources and shown in Live
+  TV. Windows won't hand over a file type another app already owns, so if
+  double-clicking still opens VLC or Media Player, choose Kwick Player once
+  under **Settings › Apps › Default apps** (there's a button for it in
+  **Settings › Sources › IPTV Sources**).
 - **No sleep timer in the player.** It's there so a phone stops playing after
   you've fallen asleep; a PC already sleeps on its own schedule.
 - **Recordings need the app left open.** On a phone the recording keeps going in
