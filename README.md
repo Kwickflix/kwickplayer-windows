@@ -163,7 +163,9 @@ Everything works with the mouse, and the keyboard gets you around faster:
 | **↑ / ↓** or the **mouse wheel** | Volume |
 | **M** | Mute |
 | **F** or **double-click the picture** | Full screen — and again to come back out, to the same window you had |
-| **Tab** | Move through the screen; reaches the left menu and comes back out again |
+| **Tab** | Move between the parts of a screen — the left menu, the bar across the top, the main body — and **Shift+Tab** back the other way. A list or a grid of posters is one stop: the **arrow keys** move inside it, **Enter** opens what you're on, and Tab leaves it |
+
+The full list is in the app, at **Settings › Appearance › Keyboard shortcuts**.
 
 **Getting out of a video with the mouse:** a **back arrow** sits in the top-left
 corner of the picture, and the mouse's **back button** (the thumb button, if
